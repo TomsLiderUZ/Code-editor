@@ -1,0 +1,19 @@
+:root {
+  /* Qora ranglar */
+  --black: #000000; /* sof qora */
+  --black-20: #00000033; /* juda och qora (20% shaffof) */
+  --black-40: #00000066; /* o‘rtacha qora (40% shaffof) */
+  --black-60: #00000099; /* kuchli qora (60% shaffof) */
+
+  /* Oq va kul ranglar */
+  --white: #ffffff; /* sof oq */
+  --gray-soft: #f0f0f0; /* yumshoq kulrang */
+  --gray-warm: #f2f0f1; /* iliq kulrang */
+  --gray-mute: #f0eeed; /* xira kulrang */
+
+  /* Aksent ranglar */
+  --yellow-accent: #ffc633; /* oltin-sariq */
+  --red-accent: #ff3333; /* yorqin qizil */
+  --red-10: #ff33331a; /* xira qizil (shaffof) */
+  --green-accent: #01ab31; /* tabiiy yashil */
+}
